@@ -1,4 +1,4 @@
-const url = "http://localhost:5000/api";
+const url = "https://task-manager-backend-3dp6.onrender.com/api";
 
 const ENDPOINT = {
   auth: {
