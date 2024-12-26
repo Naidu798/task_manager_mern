@@ -12,7 +12,7 @@ const PORT = process.env.PORT || 5000;
 const app = express();
 app.use(
   cors({
-    origin: "https://ramu-task-manager.netlify.app/",
+    origin: "https://ramu-task-manager.netlify.app",
     credentials: true,
   })
 );
